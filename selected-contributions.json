@@ -1,0 +1,10 @@
+[
+  {"repo":"AstrBotDevs/AstrBot","number":10028,"summary":"Restore session model fallback for proactive tasks and background wake-ups."},
+  {"repo":"AstrBotDevs/AstrBot","number":10072,"summary":"Keep failed knowledge-base document deletions retryable."},
+  {"repo":"AstrBotDevs/AstrBot","number":10075,"summary":"Preserve scheduled tasks when an edited cron configuration is invalid."},
+  {"repo":"HKUDS/nanobot","number":5757,"summary":"Search older pages of persisted conversation history."},
+  {"repo":"HKUDS/nanobot","number":5751,"summary":"Preserve pending scheduled runs when editing cron tasks."},
+  {"repo":"sissbruecker/linkding","number":1490,"summary":"Add bulk bookmark archive and unarchive APIs with owner isolation and request validation."},
+  {"repo":"alibaba/spring-ai-alibaba","number":4953,"summary":"Prevent expired parallel tool calls from starting after a timeout."},
+  {"repo":"apache/dubbo","number":16456,"summary":"Release concurrency slots when downstream invocation fails with a limit exception."}
+]
