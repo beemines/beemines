@@ -33,6 +33,8 @@
 
 #### Selected contributions
 
+- **[nanobot #5751](https://github.com/HKUDS/nanobot/pull/5751)** · Merged  
+  Preserve pending scheduled runs when editing cron tasks.
 - **[AstrBot #10028](https://github.com/AstrBotDevs/AstrBot/pull/10028)** · Merged  
   Restore session model fallback for proactive tasks and background wake-ups.
 
