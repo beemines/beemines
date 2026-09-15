@@ -33,6 +33,8 @@
 
 #### Selected contributions
 
+- **[nanobot #5757](https://github.com/HKUDS/nanobot/pull/5757)** · Merged  
+  Search older pages of persisted conversation history.
 - **[nanobot #5751](https://github.com/HKUDS/nanobot/pull/5751)** · Merged  
   Preserve pending scheduled runs when editing cron tasks.
 - **[AstrBot #10028](https://github.com/AstrBotDevs/AstrBot/pull/10028)** · Merged  
