@@ -33,6 +33,8 @@
 
 #### Selected contributions
 
+- **[AstrBot #10075](https://github.com/AstrBotDevs/AstrBot/pull/10075)** · Merged  
+  Preserve scheduled tasks when an edited cron configuration is invalid.
 - **[nanobot #5757](https://github.com/HKUDS/nanobot/pull/5757)** · Merged  
   Search older pages of persisted conversation history.
 - **[nanobot #5751](https://github.com/HKUDS/nanobot/pull/5751)** · Merged  
